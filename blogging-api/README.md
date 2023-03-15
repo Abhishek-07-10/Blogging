@@ -22,6 +22,9 @@
 - HashMap, List
 <br><br>
 
+## Swagger-Link: (http://finalmcttestabhishek-env.eba-ebv3n6gt.us-east-1.elasticbeanstalk.com/swagger-ui/index.html)
+- [Swagger IP](http://3.226.9.153/swagger-ui/index.html#/comment-control/getAllComments)
+- [Swagger URL](http://finalmcttestabhishek-env.eba-ebv3n6gt.us-east-1.elasticbeanstalk.com/swagger-ui/index.html)
 ## Examples:-
 - Add Users
 ![adduser](add%20users.png)
